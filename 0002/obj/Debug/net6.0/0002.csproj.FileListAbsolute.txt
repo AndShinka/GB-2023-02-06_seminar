@@ -1,0 +1,15 @@
+C:\0 GB 2023\GB 2023-02\GB 2023-02-06_seminar\0002\bin\Debug\net6.0\0002.exe
+C:\0 GB 2023\GB 2023-02\GB 2023-02-06_seminar\0002\bin\Debug\net6.0\0002.deps.json
+C:\0 GB 2023\GB 2023-02\GB 2023-02-06_seminar\0002\bin\Debug\net6.0\0002.runtimeconfig.json
+C:\0 GB 2023\GB 2023-02\GB 2023-02-06_seminar\0002\bin\Debug\net6.0\0002.dll
+C:\0 GB 2023\GB 2023-02\GB 2023-02-06_seminar\0002\bin\Debug\net6.0\0002.pdb
+C:\0 GB 2023\GB 2023-02\GB 2023-02-06_seminar\0002\obj\Debug\net6.0\0002.csproj.AssemblyReference.cache
+C:\0 GB 2023\GB 2023-02\GB 2023-02-06_seminar\0002\obj\Debug\net6.0\0002.GeneratedMSBuildEditorConfig.editorconfig
+C:\0 GB 2023\GB 2023-02\GB 2023-02-06_seminar\0002\obj\Debug\net6.0\0002.AssemblyInfoInputs.cache
+C:\0 GB 2023\GB 2023-02\GB 2023-02-06_seminar\0002\obj\Debug\net6.0\0002.AssemblyInfo.cs
+C:\0 GB 2023\GB 2023-02\GB 2023-02-06_seminar\0002\obj\Debug\net6.0\0002.csproj.CoreCompileInputs.cache
+C:\0 GB 2023\GB 2023-02\GB 2023-02-06_seminar\0002\obj\Debug\net6.0\0002.dll
+C:\0 GB 2023\GB 2023-02\GB 2023-02-06_seminar\0002\obj\Debug\net6.0\refint\0002.dll
+C:\0 GB 2023\GB 2023-02\GB 2023-02-06_seminar\0002\obj\Debug\net6.0\0002.pdb
+C:\0 GB 2023\GB 2023-02\GB 2023-02-06_seminar\0002\obj\Debug\net6.0\0002.genruntimeconfig.cache
+C:\0 GB 2023\GB 2023-02\GB 2023-02-06_seminar\0002\obj\Debug\net6.0\ref\0002.dll

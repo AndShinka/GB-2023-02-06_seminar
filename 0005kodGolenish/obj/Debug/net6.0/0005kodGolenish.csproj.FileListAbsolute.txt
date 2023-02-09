@@ -1,0 +1,15 @@
+C:\0 GB 2023\GB 2023-02\GB 2023-02-06_seminar\0005kodGolenish\bin\Debug\net6.0\0005kodGolenish.exe
+C:\0 GB 2023\GB 2023-02\GB 2023-02-06_seminar\0005kodGolenish\bin\Debug\net6.0\0005kodGolenish.deps.json
+C:\0 GB 2023\GB 2023-02\GB 2023-02-06_seminar\0005kodGolenish\bin\Debug\net6.0\0005kodGolenish.runtimeconfig.json
+C:\0 GB 2023\GB 2023-02\GB 2023-02-06_seminar\0005kodGolenish\bin\Debug\net6.0\0005kodGolenish.dll
+C:\0 GB 2023\GB 2023-02\GB 2023-02-06_seminar\0005kodGolenish\bin\Debug\net6.0\0005kodGolenish.pdb
+C:\0 GB 2023\GB 2023-02\GB 2023-02-06_seminar\0005kodGolenish\obj\Debug\net6.0\0005kodGolenish.csproj.AssemblyReference.cache
+C:\0 GB 2023\GB 2023-02\GB 2023-02-06_seminar\0005kodGolenish\obj\Debug\net6.0\0005kodGolenish.GeneratedMSBuildEditorConfig.editorconfig
+C:\0 GB 2023\GB 2023-02\GB 2023-02-06_seminar\0005kodGolenish\obj\Debug\net6.0\0005kodGolenish.AssemblyInfoInputs.cache
+C:\0 GB 2023\GB 2023-02\GB 2023-02-06_seminar\0005kodGolenish\obj\Debug\net6.0\0005kodGolenish.AssemblyInfo.cs
+C:\0 GB 2023\GB 2023-02\GB 2023-02-06_seminar\0005kodGolenish\obj\Debug\net6.0\0005kodGolenish.csproj.CoreCompileInputs.cache
+C:\0 GB 2023\GB 2023-02\GB 2023-02-06_seminar\0005kodGolenish\obj\Debug\net6.0\0005kodGolenish.dll
+C:\0 GB 2023\GB 2023-02\GB 2023-02-06_seminar\0005kodGolenish\obj\Debug\net6.0\refint\0005kodGolenish.dll
+C:\0 GB 2023\GB 2023-02\GB 2023-02-06_seminar\0005kodGolenish\obj\Debug\net6.0\0005kodGolenish.pdb
+C:\0 GB 2023\GB 2023-02\GB 2023-02-06_seminar\0005kodGolenish\obj\Debug\net6.0\0005kodGolenish.genruntimeconfig.cache
+C:\0 GB 2023\GB 2023-02\GB 2023-02-06_seminar\0005kodGolenish\obj\Debug\net6.0\ref\0005kodGolenish.dll
